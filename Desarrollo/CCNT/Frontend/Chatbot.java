@@ -111,6 +111,8 @@ public class Chatbot extends JFrame implements KeyListener {
 
             if (response == 1) {
                 String quoteWords[] = quote.split("[ ']");
+		    //Added
+		    System.out.print("Hello World !");
                 int c = counter(quoteWords);
                 if (c != -1) {
                     String ext = quote.split(verbs[c][0])[1];
