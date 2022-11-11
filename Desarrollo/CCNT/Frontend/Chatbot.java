@@ -53,6 +53,15 @@ public class Chatbot extends JFrame implements KeyListener {
         {"s", "'re"},
         {"'re", "'re"}
     };
+    String[][] modal_verbs = {
+        {"can", "could"},
+        {"would", "'d"},
+        {"might"},
+        {"should"},
+        {"must"},
+	{"shall"},
+	{"may"},
+    };
 
     public static void main(String[] args) {
         new Chatbot();
