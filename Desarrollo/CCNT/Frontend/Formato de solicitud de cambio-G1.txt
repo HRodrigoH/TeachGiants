@@ -1,0 +1,244 @@
+﻿Semestre 2022 II 
+Gestión de la Configuración del Software 
+GUIA – Semana #6 
+1. Grupo: 1
+2. Nombre del Proyecto: Chatbot para la comunicación de niños con TEA (CCNT)
+3. Cliente: Casa hogar para niños con TEA de Lima
+4. Defina 5 solicitudes de cambio de su proyecto: 
+Tiene los datos de solicitudes de Cambio de su proyecto: 
+Formato de solicitud de cambio 
+
+
+Campo 
+	Descripción
+	
+
+	
+
+	Fecha de creación 
+	19/10/2022
+	Id del Sistema
+	Chatbot para la comunicación de niños con TEA
+	Fuente 
+	Keler Modesto-Tester-Usuario de la casa hogar
+	Autor (Autoriza el cambio)
+	Lenis Wong Portillo (Jefa de área de testeo de la casa hogar)
+	Descripción:
+	El cambio solicitado consiste en agregar una función especial que permita  aumentar, con la ayuda del apoderado, pictogramas personalizados como fotografías, por medio de la cámara, imágenes o íconos, porque consideramos que el niño se identifica o expresa con un objeto en especial que el aplicativo no posee. 
+	Justificación:
+	El cambio solicitado se considera opcionalmente necesario si se desea hacer de la aplicación más diversa, con un desarrollo sostenible y gradual a través del tiempo.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campo 
+	Descripción
+	Fecha de creación 
+	19/10/2022
+	Id del Sistema
+	CCNT
+	Fuente
+	Daniel Triveno Ruffner -Tester-Usuario
+	Autor (Autoriza el cambio)
+	Lenis Wong Portillo (Jefa de área de testeo)
+	Descripción:
+	El cambio consiste en modificar la aplicación para que sea disponible en IOS y Android, ofreciendo el mismo rendimiento en ambos sistemas operativos.
+	Justificación:
+	Este cambio tiene el fin de modificar el alcance para que todos los usuarios puedan utilizar la aplicación "Chat box para la comunicación con niños con trastorno del espectro autista (CCNT)" si no tienen un celular con sistema operativo Android, haciéndola compatible con lOS.
+	
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campo
+	Descripción
+	Fecha de creación
+	19/10/2022
+	Id del Sistema
+	01 – Cambio en la interfaz de usuario para el chatbot
+	Fuente
+	Rodrigo H. - Manuel B.
+	Autor (Autoriza el cambio)
+	Lenis Wong Portillo
+	Descripción:
+	El cambio solicitado consiste en la modificación de la GUI de la aplicación para una mayor intuitividad. Los ítems que se modificarían serían la interfaz principal, los iconos de las alternativas y la paleta de colores de la aplicación.
+	Justificación:
+	El estado de la aplicación mejoraría de forma notable y pasaría a tener una interfaz mucho más amigable con el usuario. 
+ 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+Campo 
+	Descripción
+	Fecha de creación 
+	19/10/2022
+	Id del Sistema
+	CCNT
+	Fuente 
+	Carlos Ascue (Desarrollador) - Cliente
+	Autor (Autoriza el cambio)
+	Lenis Wong Portillo - Jefa de área de desarrollo Casa Hogar
+	Descripción:
+	
+
+El cambio solicitado consta en mejorar el sistema del aplicativo para poder lograr ayudar a los padres a tener una mejor comunicación con sus hijos. El ítem que se modificará será el menú para agregar una función para el padre o encargado.
+
+
+	Justificación:
+	El cambio solicitado se considera necesario ya que la versión actual del aplicativo no cubre con las necesidades del cliente. Ya que los encargados de las personas con esta condición tienen que tener una mejor herramienta para lograr entender y comunicarse con sus hijos o las personas a su cargo.
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campo 
+	Descripción
+	Fecha de creación
+	19/10/2022
+	ID del sistema
+	Chatbot para la comunicación de niños con trastorno del espectro autista (CCNT)
+	Fuente
+	Rodrigo Apaza Alva, Neil Vara Vela
+	Autor 
+	María Rosa Medina - Jefa de área de desarrollo
+	Descripción:
+	El cambio consiste en mejorar el menú principal de la aplicación. Se requiere un cambio en el color, el fondo, la medida de los íconos y las imágenes del programa.
+	Justificación:
+	Este cambio podrá facilitar el entendimiento y evitar la ambigüedad por parte por parte de los usuarios, en este caso los niños con TEA. De está manera, mermarán los errores de comunicación y entendimiento del mensaje.
