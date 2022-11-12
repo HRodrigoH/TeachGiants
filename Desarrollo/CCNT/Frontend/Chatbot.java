@@ -129,7 +129,7 @@ public class Chatbot extends JFrame implements KeyListener {
             addText("\n");
         }
     }
-
+###PROBAR FUNCION##
     public void keyReleased(KeyEvent e) {
         if (e.getKeyCode() == KeyEvent.VK_ENTER) {
             input.setEditable(true);
