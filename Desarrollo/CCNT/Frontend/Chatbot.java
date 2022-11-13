@@ -120,7 +120,7 @@ public class Chatbot extends JFrame implements KeyListener {
                     response = 2;
                 }
             }
-
+		//rename this//
             //-----default--------------
             if (response == 1) {
                 int r = (int) Math.floor(Math.random() * chatBot[chatBot.length - 1].length);
